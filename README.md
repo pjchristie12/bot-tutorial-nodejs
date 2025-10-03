@@ -13,6 +13,7 @@ This project shows the capability of a bot to react to messages sent within a gr
   * [Make changes to the bot](#pull)
     * Pull the code down to your local machine
     * Configure the local environment variables to your bot's credentials
+  * [System Architecture](ARCHITECTURE.md) - Documentation for hybrid, multi-tiered robotics control system
 
 ## Requirements:
 
